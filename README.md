@@ -46,3 +46,10 @@ A lógica de decisão é baseada na soma dos sensores laterais:
 ## 📄 Licença
 
 Este projeto é de uso livre para fins acadêmicos e de aprendizado.
+
+## Modelo utilizado
+
+
+![foto-robo-segue-linha](https://github.com/user-attachments/assets/b4223a66-78cd-4d17-9a51-ef00bcf19a61)
+
+![video-robo-segue-linha]https://github.com/user-attachments/assets/44d5db87-4987-4191-abf5-56bbc89b8a25)
